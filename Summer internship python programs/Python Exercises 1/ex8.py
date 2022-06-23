@@ -1,1 +1,0 @@
-# Take 2 numbers and display greatest number. (Also check equal number condition
